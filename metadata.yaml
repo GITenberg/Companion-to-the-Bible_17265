@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7259
     wikipedia: http://en.wikipedia.org/wiki/Elijah_Porter_Barrows
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17265#Companion-to-the-Bible
 gutenberg_issued: '2005-12-09'
 gutenberg_type: Text
 identifiers:
